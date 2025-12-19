@@ -8,6 +8,6 @@ hosts:
 
 routers: []
 networks: []
-net_mappings: {}
-router_mappings: {}
-groups: {}
+net_mappings: []
+router_mappings: []
+groups: []
