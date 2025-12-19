@@ -5,8 +5,6 @@ hosts:
     flavor: small
     base_box:
       image: ubuntu-22.04
-    groups:
-      - users
 
 networks: []
 routers: []
