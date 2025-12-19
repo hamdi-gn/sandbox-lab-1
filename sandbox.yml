@@ -1,7 +1,0 @@
-name: lab-1
-machines:
-  - name: vm1
-    image: ubuntu-22.04
-    flavor: small
-    access:
-      ssh: true
