@@ -1,0 +1,12 @@
+name: lab-1
+
+hosts:
+  - name: vm1
+    flavor: small
+    base_box:
+      image: ubuntu-22.04
+    groups:
+      - users
+
+networks: []
+routers: []
