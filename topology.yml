@@ -4,7 +4,7 @@ hosts:
   - name: vm1
     flavor: m1.small
     base_box:
-      image: ubuntu-20.04
+      image: ubuntu-noble-x86_64
 
 routers: []
 networks: []
