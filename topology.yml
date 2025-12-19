@@ -5,3 +5,9 @@ hosts:
     flavor: small
     base_box:
       image: ubuntu-22.04
+
+routers: []
+networks: []
+net_mappings: {}
+router_mappings: {}
+groups: {}
